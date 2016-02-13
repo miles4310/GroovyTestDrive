@@ -1,0 +1,17 @@
+- Applying Groovy Closures for Fun and Productivity
+   Venkat Subramaniam
+   Email: venkats@agiledeveloper.com
+   Twitter: @venkat_s
+   http://www.agiledeveloper.com downloads link
+- What are Closures?
+- Creating closures
+- Using closures
+- Closures and delegates
+- Fluent interfaces with Closures
+- Currying
+- Thread methods
+- Async methods
+- Tail call optimization using closures
+- Memoization
+- Execute around method pattern
+- Conclusion
