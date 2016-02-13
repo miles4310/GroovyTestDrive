@@ -5,7 +5,7 @@ class TimeIt {
       codeBlock()
     } finally {
       def end = System.nanoTime()
-      println "Time taken ${(end - start)/1.0e9}"      
+      println "Time taken is  ${(end - start)/1.0e9}"      
     }
   }
 }
